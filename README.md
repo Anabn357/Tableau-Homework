@@ -29,6 +29,11 @@ The following are some questions you may wish to tackle. Do not limit yourself t
 How many trips have been recorded total during the chosen period?
 
 By what percentage has total ridership grown?
+Which bikes (by ID) are most likely due for repair or inspection in the timespan?
+
+How variable is the utilization by bike ID?
+
+Next, as a chronic over-achiever:
 
 How has the proportion of short-term customers and annual subscribers changed?
 
