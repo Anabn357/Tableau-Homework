@@ -45,3 +45,9 @@ Today, what are the bottom 10 stations in the city for starting a journey? (Base
 Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?)
 
 Today, what is the gender breakdown of active participants (Male v. Female)?
+
+How effective has gender outreach been in increasing female ridership over the timespan?
+
+How does the average trip duration change by age?
+
+What is the average distance in miles that a bike is ridden?
