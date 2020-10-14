@@ -60,3 +60,8 @@ What is the average distance in miles that a bike is ridden?
 Use your visualizations (does not have to be all of them) to design a dashboard for each phenomena.
 The dashboards should be accompanied with an analysis explaining why the phenomena may be occuring.
 City officials would also like to see one of the following visualizations:
+
+Basic: A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top.
+
+Advanced: A dynamic map that shows how each station's popularity changes over time (by month and year). Again, with zip code data overlaid on the map.
+
