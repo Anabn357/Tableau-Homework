@@ -27,3 +27,9 @@ Design 2-5 visualizations for each discovered phenomena (4-10 total). You may wo
 The following are some questions you may wish to tackle. Do not limit yourself to these questions; they are suggestions for a starting point. Be creative!
 
 How many trips have been recorded total during the chosen period?
+
+By what percentage has total ridership grown?
+
+How has the proportion of short-term customers and annual subscribers changed?
+
+What are the peak hours in which bikes are used during summer months?
