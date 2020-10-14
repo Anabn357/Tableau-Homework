@@ -119,3 +119,12 @@ Pay attention to labels. What exactly is "time duration"? What's the value of "a
 Keep a close eye for obvious outliers or false data. Not everyone who signs up for the program is answering honestly.
 
 In answering the question of "why" a phenomenon is occurring, consider adding other pieces of information on socioeconomic or other geographic data. Tableau has a map "layer" feature that you may find handy.
+
+Don't be afraid to manipulate your data and play with settings in Tableau. Tableau is meant to be explored. We haven't covered all that you need -- so you will need to keep an eye out for new tricks.
+
+Treat this as a serious endeavor! This is an opportunity to show future employers that you have what it takes to be a top-notch analyst.
+
+Good luck!
+
+Copyright
+Data Boot Camp © 2019. All Rights Reserved.
