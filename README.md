@@ -85,3 +85,16 @@ A link to your Tableau Public workbook that includes:
 1 Story
 A text or markdown file with your analysis on the phenomenons you uncovered from the data.
 Sharing Your Work
+
+In order to share your work, we are asking that you will save your workbook as a .twbx file so that your TA's can grade them.
+
+To save your workbook as a .twbx file, you will just need to select "Save As..." from the "File" dropdown. Then, select the .twbx option.
+
+Assessment
+Your final product will be assessed on the following metrics:
+
+Analytic Rigor
+
+Readability
+
+Visual Attraction
