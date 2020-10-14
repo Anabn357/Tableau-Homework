@@ -56,3 +56,7 @@ How effective has gender outreach been in increasing female ridership over the t
 How does the average trip duration change by age?
 
 What is the average distance in miles that a bike is ridden?
+
+Use your visualizations (does not have to be all of them) to design a dashboard for each phenomena.
+The dashboards should be accompanied with an analysis explaining why the phenomena may be occuring.
+City officials would also like to see one of the following visualizations:
