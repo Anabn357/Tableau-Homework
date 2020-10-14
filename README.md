@@ -73,3 +73,15 @@ Create a Tableau story that brings together the visualizations, requested maps, 
 This is what will be presented to the officials, so be sure to make it professional, logical, and visually appealing.
 Considerations
 Remember, the people reading your analysis will NOT be data analysts. Your audience will be city officials, public administrators, and heads of New York City departments. Your data and analysis needs to be presented in a way that is focused, concise, easy-to-understand, and visually compelling. Your visualizations should be colorful enough to be included in press releases, and your analysis should be thoughtful enough for dictating programmatic changes.
+
+
+Submission
+Your final submission should include:
+
+A link to your Tableau Public workbook that includes:
+4-10 Total "Phenomenon" Visualizations
+2 Dashboards
+1 City Official Map
+1 Story
+A text or markdown file with your analysis on the phenomenons you uncovered from the data.
+Sharing Your Work
